@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "2bc59b1dc9e67be7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc2f33cba9365bd2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "English/Class notes/Lesson three.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fef6d878b9464c61",
+    "type": "split",
+    "children": [
+      {
+        "id": "9242ebf76ed87b60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c42954afac34b4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8509f9af4f0a6bd5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e4db8f77e570e10",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94e7489b170216f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ded6e5fd7dcaa68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84b1a2cd13948c3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "English/Class notes/Lesson three.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cb993225d2aae95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "English/Class notes/Lesson three.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90b0c0c017004414",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74ac4d09bc2e3ff0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "English/Class notes/Lesson three.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cc2f33cba9365bd2",
+  "lastOpenFiles": [
+    "English/Class notes/Lesson second.md",
+    "English/Class notes/Lesson three.md",
+    "English/Class notes/Lesson four.md",
+    "English/articles/Blockchain/Awareness of blockchain usage, structure.pdf",
+    "ИБ/Class notes/Лекция 2.md",
+    "ИБ/Class notes/Практика 1.md",
+    "ИБ/Class notes/Практика 2.md",
+    "ИБ/Class notes/Лекция 1.md",
+    "ИБ/Class notes/Дисциплина ИБ.md"
+  ]
+}
