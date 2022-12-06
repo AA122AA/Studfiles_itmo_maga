@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Class notes/Lesson three.md",
+            "file": "ИБ/Class notes/Практика 3.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 207.5
   },
   "right": {
     "id": "94e7489b170216f6",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Class notes/Lesson three.md",
+                "file": "ИБ/Class notes/Практика 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Class notes/Lesson three.md",
+                "file": "ИБ/Class notes/Практика 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Class notes/Lesson three.md"
+                "file": "ИБ/Class notes/Практика 3.md"
               }
             }
           }
@@ -128,16 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc2f33cba9365bd2",
+  "active": "9c42954afac34b4f",
   "lastOpenFiles": [
-    "English/Class notes/Lesson second.md",
-    "English/Class notes/Lesson three.md",
-    "English/Class notes/Lesson four.md",
-    "English/articles/Blockchain/Awareness of blockchain usage, structure.pdf",
-    "ИБ/Class notes/Лекция 2.md",
-    "ИБ/Class notes/Практика 1.md",
     "ИБ/Class notes/Практика 2.md",
+    "ИБ/Class notes/Практика 1.md",
     "ИБ/Class notes/Лекция 1.md",
-    "ИБ/Class notes/Дисциплина ИБ.md"
+    "ИБ/Class notes/Дисциплина ИБ.md",
+    "Методология/Лекция 3.md",
+    "Методология/Практика 2.md",
+    "Методология/Практика 1.md",
+    "Методология/Лекция 2.md",
+    "Крипта/Лекция 2.md",
+    "Крипта/Лекция 1.md"
   ]
 }

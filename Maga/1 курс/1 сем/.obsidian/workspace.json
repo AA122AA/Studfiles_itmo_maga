@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "2bc59b1dc9e67be7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e65b0087aa909de6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc2f33cba9365bd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИБ/Class notes/Практика 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b7d20c8f0357200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Крипта/практика/Практика 2/Практика конспект.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fef6d878b9464c61",
+    "type": "split",
+    "children": [
+      {
+        "id": "9242ebf76ed87b60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c42954afac34b4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8509f9af4f0a6bd5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e4db8f77e570e10",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207.5
+  },
+  "right": {
+    "id": "94e7489b170216f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ded6e5fd7dcaa68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84b1a2cd13948c3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Крипта/практика/Практика 2/Практика конспект.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cb993225d2aae95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Крипта/практика/Практика 2/Практика конспект.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90b0c0c017004414",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74ac4d09bc2e3ff0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Крипта/практика/Практика 2/Практика конспект.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0b7d20c8f0357200",
+  "lastOpenFiles": [
+    "Крипта/практика/Практика 1/Практическое задание 1.md",
+    "Крипта/практика/Практика 2/Практика конспект.md",
+    "Крипта/Лекция 1.md",
+    "Крипта/Лекция 2.md",
+    "Крипта/практика/Практическое задание 1.md",
+    "ИБ/Class notes/Практика 1.md",
+    "Методология/Практика 1.md",
+    "ИБ/Class notes/Дисциплина ИБ.md",
+    "ИБ/Class notes/Лекция 1.md",
+    "ИБ/Class notes/Практика 3.md"
+  ]
+}
