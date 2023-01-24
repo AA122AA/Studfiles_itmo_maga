@@ -8,18 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5aab3765b8d0fdba",
+            "id": "f1faac634b38cd0d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИБ/ИБ Exam.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c559dc194e9767ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Крипта/Практика/Практика 3/Домашняя работа 3. Громов А.А..md",
+                "file": "ИБ/Class notes/Дисциплина ИБ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 392.5
   },
   "right": {
     "id": "94e7489b170216f6",
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Крипта/Практика/Практика 3/Домашняя работа 3. Громов А.А..md",
+                "file": "ИБ/Class notes/Дисциплина ИБ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Крипта/Практика/Практика 3/Домашняя работа 3. Громов А.А..md",
+                "file": "ИБ/Class notes/Дисциплина ИБ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Крипта/Практика/Практика 3/Домашняя работа 3. Громов А.А..md"
+                "file": "ИБ/Class notes/Дисциплина ИБ.md"
               }
             }
           }
@@ -146,17 +161,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5aab3765b8d0fdba",
+  "active": "c559dc194e9767ff",
   "lastOpenFiles": [
-    "Крипта/Практика/Практика 3/Домашняя работа 3. Громов А.А..md",
-    "Крипта/Практика/Практика 2/Домашняя работа 2. Громов А.А.md",
-    "Крипта/Практика/Практика 2/Домашняя работа 2. Громов А.А..md",
-    "Крипта/Практика/Практика 2/Практика конспект.md",
+    "ИБ/Class notes/Лекция 1.md",
+    "ИБ/Class notes/Практика 3.md",
+    "ИБ/Class notes/Практика 2.md",
     "ИБ/Class notes/Практика 1.md",
-    "Untitled.md",
-    "Крипта/Практика/Практика 1/Домашняя работа 1. Громов А.А..md",
-    "Крипта/Практика/Практика 1/Домашняя работы 1. Громов А.А.pdf",
-    "Крипта/Практика/Практика 1/Домашняя задание 1.pdf",
-    "Крипта/практика/Практика 1/Домашняя работа 1.pdf"
+    "ИБ/ИБ Exam.md",
+    "ИБ/Class notes/pics/Угрозы. Классификация.png",
+    "ИБ/Class notes/pics/Угрозы. Виды.png",
+    "Pasted image 20230118163034.png.md",
+    "ИБ/Class notes/Дисциплина ИБ.md",
+    "Pasted image 20230118163034.png"
   ]
 }
