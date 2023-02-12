@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "45543609594f4eed",
+        "id": "9d5a5273a7bb9695",
         "type": "tabs",
         "children": [
           {
-            "id": "b79c84d9faa0a8a7",
+            "id": "593986dfe930d696",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Орг. моменты.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Орг. моменты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Орг. моменты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Орг. моменты.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b79c84d9faa0a8a7",
+  "active": "b70d0a4303812b20",
   "lastOpenFiles": [
-    "Лекция 1.md",
-    "Орг. моменты.md"
+    "Орг. моменты.md",
+    "Лекция 1.md"
   ]
 }
