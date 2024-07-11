@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "0c034700c110db09",
+    "id": "73d3e251aa8737d9",
     "type": "split",
     "children": [
       {
-        "id": "9d5a5273a7bb9695",
+        "id": "54add1689eeafa44",
         "type": "tabs",
         "children": [
           {
-            "id": "593986dfe930d696",
+            "id": "b0c88755a720f702",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Орг. моменты.md",
+                "file": "Ответы на вступительный экзамен.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "69084fdf27f4d9df",
+    "id": "dd0fa1680fb3283e",
     "type": "split",
     "children": [
       {
-        "id": "08ac16c96455df32",
+        "id": "f8bc258746d79584",
         "type": "tabs",
         "children": [
           {
-            "id": "b70d0a4303812b20",
+            "id": "e126c338acdfc362",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "d8c25d0618e18e09",
+            "id": "960b48cb501db1d5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,18 +58,10 @@
             }
           },
           {
-            "id": "7b95c7d9721bc409",
+            "id": "6639f3d69b74def9",
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "2ccb08dd96780971",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
               "state": {}
             }
           }
@@ -80,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "79db98a27016cde1",
+    "id": "e8adb36d2eeadf3c",
     "type": "split",
     "children": [
       {
-        "id": "3a4fb81cb728219b",
+        "id": "125199556221d306",
         "type": "tabs",
         "children": [
           {
-            "id": "ed4e7c50f3839b7b",
+            "id": "b673bebe046fa198",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Орг. моменты.md",
+                "file": "Ответы на вступительный экзамен.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +97,19 @@
             }
           },
           {
-            "id": "e3b65507f5aeaac9",
+            "id": "72c004ddbdb3ec1e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Орг. моменты.md",
+                "file": "Ответы на вступительный экзамен.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3eeb24fe97034c1d",
+            "id": "8e5a77529fa25400",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,12 +120,12 @@
             }
           },
           {
-            "id": "c9d023ccdcbb6d3f",
+            "id": "0ef3840a6e3c0b49",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Орг. моменты.md"
+                "file": "Ответы на вступительный экзамен.md"
               }
             }
           }
@@ -154,9 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "593986dfe930d696",
+  "active": "b0c88755a720f702",
   "lastOpenFiles": [
-    "Орг. моменты.md",
-    "Лекция 1.md"
+    "README.md"
   ]
 }
